@@ -1,19 +1,6 @@
-# task-management
+To make this front end work please provide the necessary env variable
 
-## Project setup
-```
-npm install
-```
+VUE_APP_BASE_URL=
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The base URL depends in the back-end server
